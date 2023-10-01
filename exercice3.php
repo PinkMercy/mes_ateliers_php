@@ -1,3 +1,5 @@
 <?php
-$a = 5 ;
-//if(is_integer($a) && ($a<10 && $a>5) ;
+$var = 'world';
+$var2 = 13 ;
+echo $var."+<br>".$var2 ;
+echo "hello ".$var;
